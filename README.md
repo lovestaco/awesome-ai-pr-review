@@ -4,6 +4,15 @@
 
 A list of AI coding tools (assistants, completion, refactoring, etc.).
 
+## Code Review
+
+- [git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Unlimited AI Code Reviews That Run on Every Commit.
+- [Amazon Q Developer (/review)](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - Can review your codebase for security issues and code quality problems.
+- [CodeReviewBot](https://codereviewbot.ai) - Code review bot that provides automated feedback on pull requests.
+- [Gito](https://github.com/Nayjest/Gito) - Reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [Glide](https://useglide.ai) - Structured pull request walkthroughs.
+- [Perfect.Codes](https://perfect.codes) - Gets your bugs fixed quickly by tech experts.
+
 ## Code Completion Tools
 
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - Assistant from AWS for software development tasks.
@@ -67,17 +76,6 @@ A list of AI coding tools (assistants, completion, refactoring, etc.).
 - [Windsurf](https://windsurf.com/) - IDE optimized for collaboration between developers and assistants.
 - [Wizi](https://github.com/wizi-ai/code-search) - Code search across repositories with natural language.
 - [ZZZ Code AI](https://zzzcode.ai/) - Tool for code generation, explanation, and conversion.
-
-
-## Code Review
-
-- [git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Unlimited AI Code Reviews That Run on Every Commit.
-- [Amazon Q Developer (/review)](https://aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - Can review your codebase for security issues and code quality problems.
-- [CodeReviewBot](https://codereviewbot.ai) - Code review bot that provides automated feedback on pull requests.
-- [Gito](https://github.com/Nayjest/Gito) - Reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
-- [Glide](https://useglide.ai) - Structured pull request walkthroughs.
-- [Perfect.Codes](https://perfect.codes) - Gets your bugs fixed quickly by tech experts.
-
 
 
 ## Code Refactoring Tools
